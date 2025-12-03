@@ -1,0 +1,4 @@
+Babel is convert vanilla js into the pure js.
+
+Hooks / lifecycle hooks : special methods of react used for managing the react lifecycle
+  1. useState() - state management
