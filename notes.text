@@ -1,0 +1,18 @@
+Component Based Arch(CBA)
+
+Component
+ 1. upto react 16 - class based component
+       objects creation - memory
+ 2. react 17 onwards
+       Functional components - function
+
+How application works :
+index.html
+index.js
+are the starting points of application
+
+index.js
+accesses the `div="root"` from index.html 
+using this ReactDOM .createRoot is creating root comp for React
+through this root comp,
+we can render the child components, e.g. it is  rendering App comp
